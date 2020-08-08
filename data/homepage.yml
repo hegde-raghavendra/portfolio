@@ -25,7 +25,7 @@ skill:
       description: Details coming soon, contact me if you want to know more
     - title: Java
       logo: "/logos/java.svg"
-      description: Details coming soon, contact me if you want to know more
+      description: Worked numerous backend projects using DB2, postgres as databases and JPA. Please take a look at some of my repositories to know more.
     - title: react
       logo: "/logos/react.svg"
       description: Details coming soon, contact me if you want to know more
