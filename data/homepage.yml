@@ -45,8 +45,23 @@ experience:
     - logo: "/images/htc.png"
       title: Software Engineer
       company: HTC Global services
-      duration: From Feb 2009
+      duration: Feb 2009 - Present
     - logo: "/images/mahindra-satyam-logo.jpg"
       title: Software Engineer
       company: HTC Global services
-      duration: Nov 2003 to Feb 2019        
+      duration: Nov 2003 - Feb 2019        
+
+certifications:
+  enable: true
+  item:
+    - title: Oracle certified Associate Java SE 7  
+      image: "/images/Oracle-Certification-badge_OC-Associate.png"
+      url: https://www.youracclaim.com/badges/05cb459e-61b1-468c-ad74-0824131047dd
+      
+education:
+  enable: true
+  item:
+    - title: BE Computer Science
+      year: 2003 - Present
+      academy: SDMCET, Dharward, Karnataka - India
+      image: "/images/sdmcet.png"      
