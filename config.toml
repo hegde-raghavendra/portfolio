@@ -1,0 +1,46 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Raghavendra Hegde"
+theme="hugo-developer-portfolio"
+
+[params.plugins]
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  URL = ""
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  [[menu.main]]
+  name = "Portfolio"
+  URL = "portfolio"
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+
+home = "Home" # What you want the homepage to show up as in the menu bar
+# Meta data
+description = "The website of Raghavendra Hegde, Software Engineer and HTC Global services"
+author = "Raghavendra Hegde"
+
+[params]
+  [params.contact]
+  formAction = "https://formspree.io/<Insert code>" # Add your formspree URL here to get emails
+
+  # This contains the contact information for the footer
+  [params.footer]
+  email = "raghavendra.hegde@outlook.com"
+  address = "Bloomington, IL"
+  googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d97122.02096246302!2d-89.0419026934629!3d40.473867811712495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880b087039089ac1%3A0x2e424aa54a23bc1e!2sBloomington%2C%20IL!5e0!3m2!1sen!2sus!4v1596889363133!5m2!1sen!2sus"

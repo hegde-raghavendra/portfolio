@@ -1,0 +1,40 @@
+banner:
+  title: Hi! I’m Raghavendra
+
+social:
+  twitter: ""
+  linkedin: raghavendra-hegde-4295723a
+  github: raghavhegdegithub
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  gmail: raghavendra.g.hegde@gmail.com
+
+about:
+  enable: true
+  content: Software engineer at HTC Global services
+  button:
+    btnText: Find out more
+    URL: "/about"
+
+skill:
+  enable: true
+  item:
+    - title: JavaScript
+      logo: "/logos/javascript.svg"
+      description: Details coming soon, contact me if you want to know more
+    - title: Java
+      logo: "/logos/java.svg"
+      description: Details coming soon, contact me if you want to know more
+    - title: react
+      logo: "/logos/react.svg"
+      description: Details coming soon, contact me if you want to know more
+    - title: git
+      logo: "/logos/git.svg"
+      description: Details coming soon, contact me if you want to know more      
+    - title: sql
+      logo: "/logos/sql.svg"
+      description: Details coming soon, contact me if you want to know more         
+    - title: Mainframe
+      logo: "/logos/mainframe.png"
+      description: Worked extensively on mainframe technologie such as CICS, IMS, z/os, MVS. Also have many years of working experience in Pli, Cobol, Rexx and JCL               
