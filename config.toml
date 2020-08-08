@@ -15,9 +15,6 @@ theme="hugo-developer-portfolio"
 
 [menu]
   [[menu.main]]
-  name = "Home"
-  URL = ""
-  [[menu.main]]
   name = "About"
   URL = "about"
   [[menu.main]]
@@ -30,12 +27,12 @@ theme="hugo-developer-portfolio"
   name = "Contact"
   URL = "contact"
 
+[params]
 home = "Home" # What you want the homepage to show up as in the menu bar
 # Meta data
 description = "The website of Raghavendra Hegde, Software Engineer and HTC Global services"
 author = "Raghavendra Hegde"
 
-[params]
   [params.contact]
   formAction = "https://formspree.io/<Insert code>" # Add your formspree URL here to get emails
 
