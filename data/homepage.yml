@@ -38,3 +38,15 @@ skill:
     - title: Mainframe
       logo: "/logos/mainframe.png"
       description: Worked extensively on mainframe technologie such as CICS, IMS, z/os, MVS. Also have many years of working experience in Pli, Cobol, Rexx and JCL               
+
+experience:
+  enable: true
+  item:
+    - logo: "/images/htc.png"
+      title: Software Engineer
+      company: HTC Global services
+      duration: Feb 2009 
+    - logo: "/images/mahindra-satyam-logo.jpg"
+      title: Software Engineer
+      company: HTC Global services
+      duration: Nov 2003 to Feb 2019        
