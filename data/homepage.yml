@@ -32,12 +32,15 @@ skill:
     - title: git
       logo: "/logos/git.svg"
       description: Details coming soon, contact me if you want to know more      
-    - title: sql
-      logo: "/logos/sql.svg"
-      description: Details coming soon, contact me if you want to know more         
+    - title: NodeJs
+      logo: "/logos/nodejs.svg"
+      description: Created many microservices with jwt auth and express and mongodb.        
     - title: Mainframe
       logo: "/logos/mainframe.png"
       description: Worked extensively on mainframe technologie such as CICS, IMS, z/os, MVS. Also have many years of working experience in Pli, Cobol, Rexx and JCL               
+   - title: git
+      logo: "/logos/git.svg"
+      description: Details coming soon, contact me if you want to know more     
 
 experience:
   enable: true
